@@ -117,9 +117,6 @@ The intersection of math and ML is where I thrive. Whether it's:
 
 I love building systems that turn mathematical theory into working solutions.
 
-### 🧗 Problem Solving
-Rock climbing taught me that complex problems are just sequences of smaller moves. I approach ML challenges the same way—iteratively, methodically, always looking for novel solutions rather than standard approaches.
-
 ## 🎯 Currently Exploring
 
 - 🔬 Research opportunities in ML, NLP, and robotics at Rutgers
