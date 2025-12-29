@@ -136,24 +136,17 @@ Rock climbing taught me that complex problems are just sequences of smaller move
 - 🤖 Built production ML systems (XGBoost, graph neural networks, transformers)
 - 🎯 Multiple hackathon wins with creative, novel solutions
 
-## 📝 Projects & Write-ups
+## 📊 GitHub Stats
 
-<!-- BLOG_START -->
-- 🎯 [**Building Hearo**: Transformer-Based Selective Noise Suppression](https://github.com/Ndgandhi23/Hearo--Transformer-Based-Selective-Noise-Suppression)  
-  *Deep dive into CNN-transformer architecture for selective audio filtering*
+<div align="center">
 
-- 🚗 [**Driver Risk Modeling**: XGBoost for Insurance Pricing](https://github.com/Ndgandhi23/DriverRiskModeling--XGBoost-driver-risk-scoring-for-insurance-pricing)  
-  *How gradient boosting meets actuarial science*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndgandhi23&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true)
 
-- 🏆 [**Winning HackRU with Personify**](https://github.com/Ndgandhi23/Personify--RAG-Pipeline)  
-  *Building a RAG pipeline in 24 hours*
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ndgandhi23&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-- 🤝 [**Social Qlik**: Deep Learning Embeddings with Graph Clustering](https://github.com/Ndgandhi23/Social-Qlik--Deep-Learning-Embeddings-with-Constrained-Graph-Clustering)  
-  *Using embeddings and graph theory to build better teams (iCorps funded)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndgandhi23&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
-- 💻 [**Code Knowledge Onboarding**: Embeddings Pipeline](https://github.com/Ndgandhi23/Code-Knowledge-Onboarding-Embeddings-Pipeline-)  
-  *Making developer onboarding smarter with ML*
-<!-- BLOG_END -->
+</div>
 
 ## 📫 Let's Connect!
 
