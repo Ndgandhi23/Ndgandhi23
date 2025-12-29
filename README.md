@@ -107,14 +107,11 @@ I'm **Neil**, a CS & Math double major at 🎓 **Rutgers University** who loves 
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ndgandhi23&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ndgandhi23&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndgandhi23&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ndgandhi23&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndgandhi23&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndgandhi23&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
 </div>
 
@@ -173,7 +170,7 @@ Rock climbing taught me that complex problems are just sequences of smaller move
 ## 🏅 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ndgandhi23&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ndgandhi23&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ## 📫 Let's Connect!
@@ -196,7 +193,7 @@ Rock climbing taught me that complex problems are just sequences of smaller move
   
 ### 💡 *Inventing the future, one commit at a time*
 
-<img src="https://komarev.com/ghpvc/?username=Ndgandhi23&color=58a6ff&style=flat-square&label=Profile+Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=Ndgandhi23&color=58a6ff&style=flat-square&label=Profile+Views)
 
 <!-- TIMESTAMP -->
 
