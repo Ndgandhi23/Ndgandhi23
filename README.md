@@ -2,12 +2,12 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi%2C+I'm+Neil!;CS+%26+Math+Student+%40+Rutgers;Machine+Learning+Engineer;Building+the+Future+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi%2C+I'm+Neil!;CS+%26+Math+%40+Rutgers;Machine+Learning+Enthusiast;Math+%2B+ML+%3D+%E2%9D%A4%EF%B8%8F;Building+the+Future+🚀)
 
 </div>
 
 Welcome to my page!  
-I'm **Neil**, CS & Math double major at 🎓 **Rutgers University** with a **3.93 GPA**, passionate about **machine learning** and building systems that solve real problems.
+I'm **Neil**, a CS & Math double major at 🎓 **Rutgers University** who loves **mathematics** and **machine learning**. I'm passionate about the elegant intersection of mathematical theory and practical ML applications—from the beauty of optimization algorithms to the power of neural networks.
 
 > *"The best way to predict the future is to invent it"* - Alan Kay
 
@@ -52,8 +52,8 @@ I'm **Neil**, CS & Math double major at 🎓 **Rutgers University** with a **3.9
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/YOUR_USERNAME/hearo"><b>Hearo - AI Noise Cancellation</b></a><br>
-      <sub>CNN-transformer architecture for selective audio filtering</sub>
+      <a href="HEARO_LINK"><b>🎧 Hearo - AI Noise Cancellation</b></a><br>
+      <sub>CNN-transformer architecture for selective audio filtering. Because sometimes you need to choose what to hear.</sub>
     </td>
     <td><img src="https://img.shields.io/badge/stars-0-blue?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/forks-0-blue?style=flat-square" /></td>
@@ -62,8 +62,8 @@ I'm **Neil**, CS & Math double major at 🎓 **Rutgers University** with a **3.9
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/YOUR_USERNAME/trace"><b>Trace - Fraud Detection System</b></a><br>
-      <sub>Production-grade fraud detection using graph neural networks (90%+ accuracy, $500K savings potential)</sub>
+      <a href="TRACE_LINK"><b>🔒 Trace - Fraud Detection</b></a><br>
+      <sub>Graph neural networks meet real-world fraud detection. Math + ML solving actual problems.</sub>
     </td>
     <td><img src="https://img.shields.io/badge/stars-0-blue?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/forks-0-blue?style=flat-square" /></td>
@@ -72,8 +72,8 @@ I'm **Neil**, CS & Math double major at 🎓 **Rutgers University** with a **3.9
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/YOUR_USERNAME/social-qlik"><b>Social Qlik</b></a><br>
-      <sub>ML-powered team formation system (iCorps funded)</sub>
+      <a href="SOCIAL_QLIK_LINK"><b>🤝 Social Qlik</b></a><br>
+      <sub>ML-powered team formation system (iCorps funded). Using algorithms to build better teams.</sub>
     </td>
     <td><img src="https://img.shields.io/badge/stars-0-blue?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/forks-0-blue?style=flat-square" /></td>
@@ -82,8 +82,8 @@ I'm **Neil**, CS & Math double major at 🎓 **Rutgers University** with a **3.9
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/YOUR_USERNAME/personify"><b>Personify</b></a><br>
-      <sub>🥇 First place at HackRU - Transformer-based NLP pipeline</sub>
+      <a href="PERSONIFY_LINK"><b>🏆 Personify</b></a><br>
+      <sub>🥇 First place at HackRU! Transformer-based NLP pipeline built in 24 hours.</sub>
     </td>
     <td><img src="https://img.shields.io/badge/stars-0-blue?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/forks-0-blue?style=flat-square" /></td>
@@ -92,23 +92,6 @@ I'm **Neil**, CS & Math double major at 🎓 **Rutgers University** with a **3.9
   </tr>
 </table>
 <!-- PROJECTS_END -->
-
-## 💼 Experience
-
-**🤖 Machine Learning & Automation Developer** @ UPS *(Summer 2024)*
-- Built **Trace**, a production-grade fraud detection system using PyTorch Geometric and graph neural networks
-- Achieved 90%+ accuracy with potential to save $500K annually
-- Implemented real-time fraud pattern detection across shipping networks
-
-**⚙️ AI & Automation Developer** @ Catalyst Solutions *(2023-2024)*
-- Created employee tracking and automation systems saving hundreds of hours weekly
-- Developed intelligent data pipelines using Python and Power Automate
-- Built ML models for workflow optimization
-
-**🚀 Machine Learning Team Lead** @ Rutgers Rocketry *(2023-Present)*
-- Leading development of real-time sensor anomaly detection systems for rocket flights
-- Implementing edge ML models for flight safety and telemetry analysis
-- Managing team of ML engineers for competition launches
 
 ## 📈 GitHub Stats
 
@@ -125,49 +108,63 @@ I'm **Neil**, CS & Math double major at 🎓 **Rutgers University** with a **3.9
 
 </div>
 
-## 📝 Latest Blog Posts & Projects
+## 💡 What Drives Me
+
+### 🧮 Mathematics
+I'm fascinated by the elegance of mathematical theory—from **linear optimization** and the **simplex method** to **real analysis** and proof techniques. There's something beautiful about how abstract mathematical concepts become powerful tools in ML.
+
+### 🤖 Machine Learning
+The intersection of math and ML is where I thrive. Whether it's:
+- **Graph Neural Networks** for fraud detection
+- **CNN-Transformer architectures** for audio processing
+- **Optimization algorithms** that make models learn better
+- **NLP pipelines** that understand language
+
+I love building systems that turn mathematical theory into working solutions.
+
+### 🧗 Problem Solving
+Rock climbing taught me that complex problems are just sequences of smaller moves. I approach ML challenges the same way—iteratively, methodically, always looking for novel solutions rather than standard approaches.
+
+## 🎯 Currently Exploring
+
+- 🔬 Research opportunities in ML, NLP, and robotics at Rutgers
+- 🧪 Novel ML architectures and optimization techniques
+- 🚀 Real-time sensor anomaly detection for rocket telemetry
+- 📚 Advanced topics in Machine Learning Principles, Linear Optimization, and Real Analysis
+- 🎸 Hackathons (because building cool stuff in 24 hours is fun!)
+
+## 🏆 Highlights
+
+- 🥇 **First Place at HackRU** with Personify (transformer-based NLP)
+- 💰 **iCorps Funding** for Social Qlik
+- 🚀 **ML Team Lead** @ Rutgers Rocketry
+- 🤖 Built production ML systems (graph neural networks for fraud detection)
+- 🎯 Multiple hackathon wins with creative, novel solutions
+
+## 📝 Projects & Write-ups
 
 <!-- BLOG_START -->
-- 🎯 [**Building Hearo**: AI-Powered Noise Cancellation](https://github.com/YOUR_USERNAME/hearo)  
+- 🎯 [**Building Hearo**: AI-Powered Noise Cancellation](HEARO_LINK)  
   *Deep dive into CNN-transformer architecture for selective audio filtering*
 
-- 🔒 [**Graph Neural Networks for Fraud Detection**](https://github.com/YOUR_USERNAME/trace)  
-  *How we achieved 90%+ accuracy at production scale*
+- 🔒 [**Graph Neural Networks for Fraud Detection**](TRACE_LINK)  
+  *How mathematical graph theory meets real-world ML problems*
 
-- 🏆 [**Winning HackRU with Personify**](https://github.com/YOUR_USERNAME/personify)  
+- 🏆 [**Winning HackRU with Personify**](PERSONIFY_LINK)  
   *Building a transformer-based NLP pipeline in 24 hours*
 
 - 🚀 [**Real-Time ML for Rocket Telemetry**](https://github.com/rutgers-rocketry)  
-  *Edge ML for flight safety and anomaly detection*
+  *Edge ML for flight safety and sensor anomaly detection*
 
-- 🤝 [**Social Qlik: ML-Powered Team Formation**](https://github.com/YOUR_USERNAME/social-qlik)  
-  *Funded by iCorps - matching people with ML*
+- 🤝 [**Social Qlik: ML-Powered Team Formation**](SOCIAL_QLIK_LINK)  
+  *Using algorithms to build better teams (iCorps funded)*
 <!-- BLOG_END -->
 
-## 🎯 Currently
-
-- 🔬 Seeking research opportunities in ML, NLP, and robotics at Rutgers
-- 💻 Interviewing with Charles River Associates, Root Access, and Experian
-- 🧪 Building novel ML projects and winning hackathons
-- 📚 Studying: Machine Learning Principles, Linear Optimization, Real Analysis
-- 🪨 Rock climbing and solving problems iteratively
-
-## 🏆 Achievements
+## 🏅 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </p>
-
-- 🥇 **First Place** at HackRU with Personify (transformer-based NLP)
-- 💰 **iCorps Funding** for Social Qlik team formation system
-- 📊 **3.93 GPA** - CS & Math double major at Rutgers University
-- 🚀 **Production ML** - Built fraud detection system saving $500K/year at UPS
-- 🎸 **Multiple Hackathon Wins** with novel, creative solutions
-
-## 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 📫 Let's Connect!
 
