@@ -52,43 +52,53 @@ I'm **Neil**, a CS & Math double major at 🎓 **Rutgers University** who loves 
   </tr>
   <tr>
     <td>
-      <a href="HEARO_LINK"><b>🎧 Hearo - AI Noise Cancellation</b></a><br>
+      <a href="https://github.com/Ndgandhi23/Hearo--Transformer-Based-Selective-Noise-Suppression"><b>🎧 Hearo - AI Noise Cancellation</b></a><br>
       <sub>CNN-transformer architecture for selective audio filtering. Because sometimes you need to choose what to hear.</sub>
     </td>
-    <td><img src="https://img.shields.io/badge/stars-0-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/forks-0-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/issues-0-green?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/PRs-0-yellow?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/stars/Ndgandhi23/Hearo--Transformer-Based-Selective-Noise-Suppression?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/forks/Ndgandhi23/Hearo--Transformer-Based-Selective-Noise-Suppression?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/issues/Ndgandhi23/Hearo--Transformer-Based-Selective-Noise-Suppression?style=flat-square&color=green" /></td>
+    <td><img src="https://img.shields.io/github/issues-pr/Ndgandhi23/Hearo--Transformer-Based-Selective-Noise-Suppression?style=flat-square&color=yellow" /></td>
   </tr>
   <tr>
     <td>
-      <a href="TRACE_LINK"><b>🔒 Trace - Fraud Detection</b></a><br>
-      <sub>Graph neural networks meet real-world fraud detection. Math + ML solving actual problems.</sub>
+      <a href="https://github.com/Ndgandhi23/DriverRiskModeling--XGBoost-driver-risk-scoring-for-insurance-pricing"><b>🚗 Driver Risk Modeling</b></a><br>
+      <sub>XGBoost-based driver risk scoring for insurance pricing. Math + ML solving actual problems.</sub>
     </td>
-    <td><img src="https://img.shields.io/badge/stars-0-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/forks-0-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/issues-0-green?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/PRs-0-yellow?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/stars/Ndgandhi23/DriverRiskModeling--XGBoost-driver-risk-scoring-for-insurance-pricing?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/forks/Ndgandhi23/DriverRiskModeling--XGBoost-driver-risk-scoring-for-insurance-pricing?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/issues/Ndgandhi23/DriverRiskModeling--XGBoost-driver-risk-scoring-for-insurance-pricing?style=flat-square&color=green" /></td>
+    <td><img src="https://img.shields.io/github/issues-pr/Ndgandhi23/DriverRiskModeling--XGBoost-driver-risk-scoring-for-insurance-pricing?style=flat-square&color=yellow" /></td>
   </tr>
   <tr>
     <td>
-      <a href="SOCIAL_QLIK_LINK"><b>🤝 Social Qlik</b></a><br>
-      <sub>ML-powered team formation system (iCorps funded). Using algorithms to build better teams.</sub>
+      <a href="https://github.com/Ndgandhi23/Social-Qlik--Deep-Learning-Embeddings-with-Constrained-Graph-Clustering"><b>🤝 Social Qlik</b></a><br>
+      <sub>Deep learning embeddings with constrained graph clustering for team formation (iCorps funded).</sub>
     </td>
-    <td><img src="https://img.shields.io/badge/stars-0-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/forks-0-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/issues-0-green?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/PRs-0-yellow?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/stars/Ndgandhi23/Social-Qlik--Deep-Learning-Embeddings-with-Constrained-Graph-Clustering?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/forks/Ndgandhi23/Social-Qlik--Deep-Learning-Embeddings-with-Constrained-Graph-Clustering?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/issues/Ndgandhi23/Social-Qlik--Deep-Learning-Embeddings-with-Constrained-Graph-Clustering?style=flat-square&color=green" /></td>
+    <td><img src="https://img.shields.io/github/issues-pr/Ndgandhi23/Social-Qlik--Deep-Learning-Embeddings-with-Constrained-Graph-Clustering?style=flat-square&color=yellow" /></td>
   </tr>
   <tr>
     <td>
-      <a href="PERSONIFY_LINK"><b>🏆 Personify</b></a><br>
-      <sub>🥇 First place at HackRU! Transformer-based NLP pipeline built in 24 hours.</sub>
+      <a href="https://github.com/Ndgandhi23/Personify--RAG-Pipeline"><b>🏆 Personify</b></a><br>
+      <sub>🥇 First place at HackRU! RAG pipeline built in 24 hours.</sub>
     </td>
-    <td><img src="https://img.shields.io/badge/stars-0-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/forks-0-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/issues-0-green?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/PRs-0-yellow?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/stars/Ndgandhi23/Personify--RAG-Pipeline?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/forks/Ndgandhi23/Personify--RAG-Pipeline?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/issues/Ndgandhi23/Personify--RAG-Pipeline?style=flat-square&color=green" /></td>
+    <td><img src="https://img.shields.io/github/issues-pr/Ndgandhi23/Personify--RAG-Pipeline?style=flat-square&color=yellow" /></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ndgandhi23/Code-Knowledge-Onboarding-Embeddings-Pipeline-"><b>💻 Code Knowledge Onboarding</b></a><br>
+      <sub>Embeddings pipeline for efficient code knowledge transfer and developer onboarding.</sub>
+    </td>
+    <td><img src="https://img.shields.io/github/stars/Ndgandhi23/Code-Knowledge-Onboarding-Embeddings-Pipeline-?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/forks/Ndgandhi23/Code-Knowledge-Onboarding-Embeddings-Pipeline-?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/github/issues/Ndgandhi23/Code-Knowledge-Onboarding-Embeddings-Pipeline-?style=flat-square&color=green" /></td>
+    <td><img src="https://img.shields.io/github/issues-pr/Ndgandhi23/Code-Knowledge-Onboarding-Embeddings-Pipeline-?style=flat-square&color=yellow" /></td>
   </tr>
 </table>
 <!-- PROJECTS_END -->
@@ -97,14 +107,14 @@ I'm **Neil**, a CS & Math double major at 🎓 **Rutgers University** who loves 
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ndgandhi23&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ndgandhi23&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndgandhi23&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -118,7 +128,7 @@ The intersection of math and ML is where I thrive. Whether it's:
 - **Graph Neural Networks** for fraud detection
 - **CNN-Transformer architectures** for audio processing
 - **Optimization algorithms** that make models learn better
-- **NLP pipelines** that understand language
+- **RAG pipelines** and embeddings for knowledge systems
 
 I love building systems that turn mathematical theory into working solutions.
 
@@ -135,47 +145,47 @@ Rock climbing taught me that complex problems are just sequences of smaller move
 
 ## 🏆 Highlights
 
-- 🥇 **First Place at HackRU** with Personify (transformer-based NLP)
+- 🥇 **First Place at HackRU** with Personify (RAG pipeline)
 - 💰 **iCorps Funding** for Social Qlik
 - 🚀 **ML Team Lead** @ Rutgers Rocketry
-- 🤖 Built production ML systems (graph neural networks for fraud detection)
+- 🤖 Built production ML systems (XGBoost, graph neural networks, transformers)
 - 🎯 Multiple hackathon wins with creative, novel solutions
 
 ## 📝 Projects & Write-ups
 
 <!-- BLOG_START -->
-- 🎯 [**Building Hearo**: AI-Powered Noise Cancellation](HEARO_LINK)  
+- 🎯 [**Building Hearo**: Transformer-Based Selective Noise Suppression](https://github.com/Ndgandhi23/Hearo--Transformer-Based-Selective-Noise-Suppression)  
   *Deep dive into CNN-transformer architecture for selective audio filtering*
 
-- 🔒 [**Graph Neural Networks for Fraud Detection**](TRACE_LINK)  
-  *How mathematical graph theory meets real-world ML problems*
+- 🚗 [**Driver Risk Modeling**: XGBoost for Insurance Pricing](https://github.com/Ndgandhi23/DriverRiskModeling--XGBoost-driver-risk-scoring-for-insurance-pricing)  
+  *How gradient boosting meets actuarial science*
 
-- 🏆 [**Winning HackRU with Personify**](PERSONIFY_LINK)  
-  *Building a transformer-based NLP pipeline in 24 hours*
+- 🏆 [**Winning HackRU with Personify**](https://github.com/Ndgandhi23/Personify--RAG-Pipeline)  
+  *Building a RAG pipeline in 24 hours*
 
-- 🚀 [**Real-Time ML for Rocket Telemetry**](https://github.com/rutgers-rocketry)  
-  *Edge ML for flight safety and sensor anomaly detection*
+- 🤝 [**Social Qlik**: Deep Learning Embeddings with Graph Clustering](https://github.com/Ndgandhi23/Social-Qlik--Deep-Learning-Embeddings-with-Constrained-Graph-Clustering)  
+  *Using embeddings and graph theory to build better teams (iCorps funded)*
 
-- 🤝 [**Social Qlik: ML-Powered Team Formation**](SOCIAL_QLIK_LINK)  
-  *Using algorithms to build better teams (iCorps funded)*
+- 💻 [**Code Knowledge Onboarding**: Embeddings Pipeline](https://github.com/Ndgandhi23/Code-Knowledge-Onboarding-Embeddings-Pipeline-)  
+  *Making developer onboarding smarter with ML*
 <!-- BLOG_END -->
 
 ## 🏅 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ndgandhi23&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/neil-d-gandhi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ndgandhi23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Ndgandhi23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -186,7 +196,7 @@ Rock climbing taught me that complex problems are just sequences of smaller move
   
 ### 💡 *Inventing the future, one commit at a time*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Ndgandhi23&color=58a6ff&style=flat-square&label=Profile+Views" />
 
 <!-- TIMESTAMP -->
 
