@@ -123,7 +123,7 @@ I love building systems that turn mathematical theory into working solutions.
 - 🧪 Novel ML architectures and optimization techniques
 - 🚀 Real-time sensor anomaly detection for rocket telemetry
 - 📚 Advanced topics in Machine Learning Principles, Linear Optimization, and Real Analysis
-- 🎸 Hackathons (because building cool stuff in 24 hours is fun!)
+- 🎸 Hackathons
 
 ## 🏆 Highlights
 
