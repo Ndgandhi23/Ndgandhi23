@@ -1,15 +1,26 @@
-# 👋 Hey! Nice to see you.
+# 👋 Hi, I'm Neil
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi%2C+I'm+Neil!;CS+%26+Math+%40+Rutgers;Machine+Learning+Enthusiast;Math+%2B+ML+%3D+%E2%9D%A4%EF%B8%8F;Building+the+Future+🚀)
+I'm a CS & Math double major at **Rutgers University** doing machine learning research with **Prof. Lesia Semenova**. I study what happens when many models are equally accurate but behave differently, and how to keep the decisions they make reliable.
 
-</div>
+I'm fascinated by the elegance of mathematical theory, from **linear optimization** to **real analysis** and proof techniques, and by how abstract mathematical concepts become powerful tools in ML.
 
-Welcome to my page!  
-I'm **Neil**, a CS & Math double major at 🎓 **Rutgers University** who loves **mathematics** and **machine learning**. I'm passionate about the elegant intersection of mathematical theory and practical ML applications—from the beauty of optimization algorithms to the power of neural networks.
+## 🔬 Research
 
-> *"The best way to predict the future is to invent it"* - Alan Kay
+**RECLAIM: Robust Algorithmic Recourse with Actionable Missingness** (first author, under review at AISTATS 2027)  
+Recourse methods tell someone denied by a model what they can change to get approved. RECLAIM also lets people reveal information the model is missing, and certifies that its advice holds when the missing values are uncertain or the model is retrained. I designed the paper's experimental methodology and led the analysis of its guarantees in practice.
+
+**Privileged Distillation Through the Lens of Rashomon Sets** (ongoing, with Prof. Lesia Semenova and Prof. Chudi Zhong)  
+Students distilled from the same teacher can reach the same accuracy yet make different predictions because of randomness in training. I lead the project's analysis of how much these students disagree, and I am extending the study to speculative decoding, reward models, and code generation.
+
+**Interests:** model multiplicity, reliable evaluation of ML systems, knowledge distillation, and AI safety.
+
+## 🏆 Highlights
+
+- 🎓 **Rutgers nominee**, CRA Outstanding Undergraduate Researcher Award (2026)
+- 🥇 **1st Place, iCIMS Track, HackRU** with Personify, an AI agent for managing a job search
+- 💰 **I-Corps Funding** for Social Qlik
+- 🚀 **ML Lead**, Rutgers Rocket Propulsion Lab (PARM, presented at the AIAA Region I Student Paper Conference)
+- 🧩 Open-source contributions to LLM tooling, including vLLM's llm-compressor
 
 ## 🛠️ Things I code with
 
@@ -102,36 +113,6 @@ I'm **Neil**, a CS & Math double major at 🎓 **Rutgers University** who loves 
   </tr>
 </table>
 <!-- PROJECTS_END -->
-
-## 💡 What Drives Me
-
-### 🧮 Mathematics
-I'm fascinated by the elegance of mathematical theory—from **linear optimization** and the **simplex method** to **real analysis** and proof techniques. There's something beautiful about how abstract mathematical concepts become powerful tools in ML.
-
-### 🤖 Machine Learning
-The intersection of math and ML is where I thrive. Whether it's:
-- **Graph Neural Networks** for fraud detection
-- **CNN-Transformer architectures** for audio processing
-- **Optimization algorithms** that make models learn better
-- **RAG pipelines** and embeddings for knowledge systems
-
-I love building systems that turn mathematical theory into working solutions.
-
-## 🎯 Currently Exploring
-
-- 🔬 Research opportunities in ML, NLP, and robotics at Rutgers
-- 🧪 Novel ML architectures and optimization techniques
-- 🚀 Real-time sensor anomaly detection for rocket telemetry
-- 📚 Advanced topics in Machine Learning Principles, Linear Optimization, and Real Analysis
-- 🎸 Hackathons
-
-## 🏆 Highlights
-
-- 🥇 **First Place at HackRU** with Personify (RAG pipeline)
-- 💰 **iCorps Funding** for Social Qlik
-- 🚀 **ML Team Lead** @ Rutgers Rocketry
-- 🤖 Built production ML systems (XGBoost, graph neural networks, transformers)
-- 🎯 Multiple hackathon wins with creative, novel solutions
 
 ## 📫 Let's Connect!
 
