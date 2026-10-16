@@ -103,6 +103,20 @@ I'm **Neil**, a CS & Math double major at 🎓 **Rutgers University** who loves 
 </table>
 <!-- PROJECTS_END -->
 
+## 🔬 Research
+
+### ⚖️ RECLAIM: Robust Algorithmic Recourse with Actionable Missingness
+**First author**, under review at **AISTATS 2027** · with Prof. Lesia Semenova
+- A recourse method that tells people denied by a model what they can change to get approved, including **revealing information the model is missing**
+- Certifies that its advice still holds when the missing values are uncertain or the **model is retrained**
+- Designed the experimental methodology and led the analysis of how the guarantees behave in practice
+
+### 🧪 Privileged Distillation Through the Lens of Rashomon Sets
+**Ongoing** · with Prof. Lesia Semenova and Prof. Chudi Zhong
+- Studying how disagreement among **equally accurate models** carries over from a teacher to the students it trains
+- Leading the analysis of how much students of the same teacher differ, and whether that changes their decisions
+- Extending the study to **speculative decoding**, **reward models**, and **code generation**
+
 ## 💡 What Drives Me
 
 ### 🧮 Mathematics
@@ -114,23 +128,26 @@ The intersection of math and ML is where I thrive. Whether it's:
 - **CNN-Transformer architectures** for audio processing
 - **Optimization algorithms** that make models learn better
 - **RAG pipelines** and embeddings for knowledge systems
+- **Fine-tuning LLMs with reinforcement learning** for embedded code generation
 
 I love building systems that turn mathematical theory into working solutions.
 
 ## 🎯 Currently Exploring
 
-- 🔬 Research opportunities in ML, NLP, and robotics at Rutgers
+- 🔬 Model multiplicity and reliable evaluation for AI safety
 - 🧪 Novel ML architectures and optimization techniques
-- 🚀 Real-time sensor anomaly detection for rocket telemetry
-- 📚 Advanced topics in Machine Learning Principles, Linear Optimization, and Real Analysis
+- 🧠 Reward models and code generation
+- 📚 Graduate Machine Learning
 - 🎸 Hackathons
 
 ## 🏆 Highlights
 
-- 🥇 **First Place at HackRU** with Personify (RAG pipeline)
+- 🎓 **Rutgers Nominee**, CRA Outstanding Undergraduate Researcher Award (2026)
+- 🥇 **First Place, iCIMS Track at HackRU** with Personify (509 participants)
 - 💰 **iCorps Funding** for Social Qlik
-- 🚀 **ML Team Lead** @ Rutgers Rocketry
+- 🚀 **ML Lead** @ Rutgers Rocket Propulsion Lab (PARM, presented at AIAA Region I Student Paper Conference)
 - 🤖 Built production ML systems (XGBoost, graph neural networks, transformers)
+- 🧩 Open-source contributions to LLM tooling (vLLM llm-compressor, GPTQModel)
 - 🎯 Multiple hackathon wins with creative, novel solutions
 
 ## 📫 Let's Connect!
